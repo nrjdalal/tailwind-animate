@@ -59,7 +59,7 @@
     "@changesets/cli": "^2.28.1",
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
-    "lint-staged": "^15.5.0",
+    "lint-staged": "^16.0.0",
     "prettier": "^3.5.3",
     "simple-git-hooks": "^2.11.1",
     "sort-package-json": "^3.0.0"
